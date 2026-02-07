@@ -12,7 +12,7 @@ and security fundamentals.
 ## 🧱 Lab Environment
 - Windows Server: 2019 / 2022
 - Client OS: Windows 10 / 11
-- Virtualization: VirtualBox / VMware
+- Virtualization: Hyper-V / VirtualBox
 - Network: Internal / NAT
 
 ---
