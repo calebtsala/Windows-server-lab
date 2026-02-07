@@ -1,6 +1,6 @@
 # Windows-server-lab
 Windows Server lab focused on Active Directory and basic enterprise infrastructure.
-# Windows Server Lab
+
 
 ## 📌 Objective
 This lab demonstrates the setup of a basic Windows Server infrastructure
